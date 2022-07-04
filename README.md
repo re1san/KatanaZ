@@ -8,7 +8,8 @@ Code in => "master" Branch
 </br>
 Still under development
 </br>
-[Demo](https://ryuj1nkatanaz.netlify.app/)
+
+Demo -> https://ryuj1nkatanaz.netlify.app/
 
 
 
